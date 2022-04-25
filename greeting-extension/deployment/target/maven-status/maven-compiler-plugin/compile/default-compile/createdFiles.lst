@@ -1,0 +1,4 @@
+META-INF\quarkus-build-steps.list
+META-INF\quarkus-javadoc.properties
+org\acme\greeting\extension\deployment\GreetingExtensionProcessor$$accessor.class
+org\acme\greeting\extension\deployment\GreetingExtensionProcessor.class

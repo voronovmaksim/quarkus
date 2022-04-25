@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/runtime/greeting-extension.iml" filepath="$PROJECT_DIR$/runtime/greeting-extension.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deployment/greeting-extension-deployment.iml" filepath="$PROJECT_DIR$/deployment/greeting-extension-deployment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/greeting-extension-parent.iml" filepath="$PROJECT_DIR$/greeting-extension-parent.iml" />
+    </modules>
+  </component>
+</project>

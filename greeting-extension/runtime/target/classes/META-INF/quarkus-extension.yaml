@@ -1,0 +1,14 @@
+---
+name: "Greeting Extension"
+metadata:
+  built-with-quarkus-core: "2.8.1.Final"
+  extension-dependencies:
+  - "io.quarkus:quarkus-arc"
+  - "io.quarkus:quarkus-core"
+  - "io.quarkus:quarkus-undertow"
+  - "io.quarkus:quarkus-vertx-http"
+  - "io.quarkus:quarkus-mutiny"
+  - "io.quarkus:quarkus-smallrye-context-propagation"
+  - "io.quarkus:quarkus-vertx"
+  - "io.quarkus:quarkus-netty"
+artifact: "org.acme:greeting-extension::jar:1.0.0-SNAPSHOT"
